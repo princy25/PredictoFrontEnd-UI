@@ -89,7 +89,7 @@ export default {
 // @import "scss/footerSection.scss";
 
 .font-icon-color {
-  color: red;
+  color: white;
   width: 25%;
 }
 .footerr {
